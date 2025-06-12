@@ -1,0 +1,39 @@
+h1,h2
+{
+    color:green;
+    font-family: Arial;
+
+}
+article
+{
+    background-color: teal;
+    background-image: url(https://images.search.yahoo.com/yhs/view;_ylt=AwrO6T6jN0toXvECxQY2nIlQ;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzdhM2U4NzFiYzYyZDQ4MTcyOWE2OWUxMGQ5MjVmOWJmBGdwb3MDMjgEaXQDYmluZw--?back=https%3A%2F%2Fimages.search.yahoo.com%2Fyhs%2Fsearch%3Fp%3Dsandsich%26type%3Dfc_AC934C13286_s58_g_e_d080323_n9998_c999%26fr%3Dyhs-fc-2461%26hsimp%3Dyhs-2461%26hspart%3Dfc%26param1%3D7%26param2%3DeJwtT8luwyAU%252FBWOiQT4sdhAOKV1%252BgFVT0UcHIc6yHiR7chVv74ireYymkWa6eLNWf9eMwCuoXLYj856Y4x22GcLNAguHPbtn%252B6wj7OznglOuWSUKUl5KR32XZic9Y%252FVYf9onPXD9BNTaoqSAjrscbxN%252B4rGDTGgYNEex0pa9F3JI2rmOYU9XPu4FaVQVFTo0N%252B3IWGUYh9QF9p%252BOqL2vkxDKJhQFDLQ2nw1S%252Fyv5GHr800esIblyesXKC%252BKA6mVMYSxyxvRYAQR4lVzdVa1OKucb3OYAy8JMMLZB7CT1CepaCXk5y8v7VNm%26tab%3Dorganic%26ri%3D28&w=1200&h=628&imgurl=insanelygoodrecipes.com%2Fwp-content%2Fuploads%2F2022%2F09%2FHealthy-Homemade-Ciabatta-Sandwich-with-Mozzarella-Cheese-Tomatoes-and-Basil.jpg&rurl=https%3A%2F%2Faacacia.uk.to%2Fciabatta-sandwich-recipes%2F&size=87KB&p=sandsich&oid=7a3e871bc62d481729a69e10d925f9bf&fr2=&fr=yhs-fc-2461&tt=15+Ciabatta+Sandwich+Recipes+%28Best+Ideas+to+Try%29+-+Insanely+Good&b=0&ni=225&no=28&ts=&tab=organic&sigr=Rgu9SacVYCSQ&sigb=WhW0D0WMR3j.&sigi=fyvTscU7NGQG&sigt=Z9QQB12.BZey&.crumb=GF8GhnURjYN&fr=yhs-fc-2461&hsimp=yhs-2461&hspart=fc&type=fc_AC934C13286_s58_g_e_d080323_n9998_c999&param1=7&param2=eJwtT8luwyAU%2FBWOiQT4sdhAOKV1%2BgFVT0UcHIc6yHiR7chVv74ireYymkWa6eLNWf9eMwCuoXLYj856Y4x22GcLNAguHPbtn%2B6wj7OznglOuWSUKUl5KR32XZic9Y%2FVYf9onPXD9BNTaoqSAjrscbxN%2B4rGDTGgYNEex0pa9F3JI2rmOYU9XPu4FaVQVFTo0N%2B3IWGUYh9QF9p%2BOqL2vkxDKJhQFDLQ2nw1S%2Fyv5GHr800esIblyesXKC%2BKA6mVMYSxyxvRYAQR4lVzdVa1OKucb3OYAy8JMMLZB7CT1CepaCXk5y8v7VNm);
+    width: 500;
+    height: 500;
+    color:red;
+    font-family: Impact;
+}
+.blur
+{
+    backdrop-filter: blur(5px);
+    background-color: rgba(255,255,255,0.3);
+
+}
+
+div p
+
+{
+    color: blue;
+
+}
+
+a:hover
+{
+    color:black;
+}
+    input[type="text"]
+   { border: 1px solid red;}
+    
+
+
+
