@@ -64,7 +64,7 @@ background-color: purple;
 
 {
     background-color: darkgoldenrod;
-    color:peachpuff;
+    color:rgba(4, 125, 87, 0.234);
     padding: 20px;
     text-align: center;
     font-size: 16px;
@@ -74,7 +74,7 @@ background-color: purple;
   display: flex;
   justify-content: space-around;
   align-items: center;
-  height: 10vh;
+  height: 20vh;
 }
 
 .box {
